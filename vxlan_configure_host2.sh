@@ -1,5 +1,5 @@
 #!/bin/bash
-# Server 1 VXLAN Configuration Script with Cleanup Functionality
+# Server 2 VXLAN Configuration Script with Cleanup Functionality
 
 # Variables
 VXLAN_IF="vxlan10"
